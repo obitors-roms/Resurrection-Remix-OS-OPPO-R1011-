@@ -1,0 +1,3 @@
+post-build=wiko/cm_rainbow/rainbow:5.1.1/LMY48G/b777aa4626:userdebug/test-keys
+post-timestamp=1440006425
+pre-device=rainbow
