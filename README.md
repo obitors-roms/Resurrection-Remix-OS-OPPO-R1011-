@@ -1,1 +1,1 @@
-# Resurrection-Remix-OS-OPPO-R1011-
+# Resurrection-Remix-OS-OPPO-R1011
